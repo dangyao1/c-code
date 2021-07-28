@@ -1,6 +1,5 @@
-#include <stdio.h>
-       int main(){
-
+#include<stdio.h>
+int main(){
 	printf("hehe\n");
-
-        }
+	return 0;
+}

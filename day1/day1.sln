@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.Hello_World", "1.Hello_World\1.Hello_World.vcxproj", "{B9109F65-C14C-4BA8-8511-213098CCCA4F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.符号常量", "2.符号常量\2.符号常量.vcxproj", "{6B307A2F-890A-4041-83F1-625849044F0F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.不同进制展示", "3.不同进制展示\3.不同进制展示.vcxproj", "{FC143078-2E47-4D53-B78F-9258E7E1219C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.补码", "4.补码\4.补码.vcxproj", "{72FE6213-CA96-4665-9A73-0DDB9B767C28}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.溢出", "5.溢出\5.溢出.vcxproj", "{0D230502-1E58-44BC-B43E-CA1DA0B877FD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.浮点数精度丢失", "6.浮点数精度丢失\6.浮点数精度丢失.vcxproj", "{4DC2FAFE-5B57-4A79-89E4-B144D8750328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9109F65-C14C-4BA8-8511-213098CCCA4F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B9109F65-C14C-4BA8-8511-213098CCCA4F}.Debug|Win32.Build.0 = Debug|Win32
+		{B9109F65-C14C-4BA8-8511-213098CCCA4F}.Release|Win32.ActiveCfg = Release|Win32
+		{B9109F65-C14C-4BA8-8511-213098CCCA4F}.Release|Win32.Build.0 = Release|Win32
+		{6B307A2F-890A-4041-83F1-625849044F0F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B307A2F-890A-4041-83F1-625849044F0F}.Debug|Win32.Build.0 = Debug|Win32
+		{6B307A2F-890A-4041-83F1-625849044F0F}.Release|Win32.ActiveCfg = Release|Win32
+		{6B307A2F-890A-4041-83F1-625849044F0F}.Release|Win32.Build.0 = Release|Win32
+		{FC143078-2E47-4D53-B78F-9258E7E1219C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC143078-2E47-4D53-B78F-9258E7E1219C}.Debug|Win32.Build.0 = Debug|Win32
+		{FC143078-2E47-4D53-B78F-9258E7E1219C}.Release|Win32.ActiveCfg = Release|Win32
+		{FC143078-2E47-4D53-B78F-9258E7E1219C}.Release|Win32.Build.0 = Release|Win32
+		{72FE6213-CA96-4665-9A73-0DDB9B767C28}.Debug|Win32.ActiveCfg = Debug|Win32
+		{72FE6213-CA96-4665-9A73-0DDB9B767C28}.Debug|Win32.Build.0 = Debug|Win32
+		{72FE6213-CA96-4665-9A73-0DDB9B767C28}.Release|Win32.ActiveCfg = Release|Win32
+		{72FE6213-CA96-4665-9A73-0DDB9B767C28}.Release|Win32.Build.0 = Release|Win32
+		{0D230502-1E58-44BC-B43E-CA1DA0B877FD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0D230502-1E58-44BC-B43E-CA1DA0B877FD}.Debug|Win32.Build.0 = Debug|Win32
+		{0D230502-1E58-44BC-B43E-CA1DA0B877FD}.Release|Win32.ActiveCfg = Release|Win32
+		{0D230502-1E58-44BC-B43E-CA1DA0B877FD}.Release|Win32.Build.0 = Release|Win32
+		{4DC2FAFE-5B57-4A79-89E4-B144D8750328}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4DC2FAFE-5B57-4A79-89E4-B144D8750328}.Debug|Win32.Build.0 = Debug|Win32
+		{4DC2FAFE-5B57-4A79-89E4-B144D8750328}.Release|Win32.ActiveCfg = Release|Win32
+		{4DC2FAFE-5B57-4A79-89E4-B144D8750328}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
