@@ -1,0 +1,19 @@
+﻿生成启动时间为 2021/5/22 18:21:58。
+     1>项目“C:\Users\17451\Documents\Visual Studio 2012\Projects\day3\strn系列\strn系列.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Visual Studio2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\17451\documents\visual studio 2012\projects\day3\strn系列\main.c(8): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\visual studio2012\vc\include\stdio.h(261) : 参见“gets”的声明
+     1>c:\users\17451\documents\visual studio 2012\projects\day3\strn系列\main.c(11): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\visual studio2012\vc\include\string.h(191) : 参见“strncpy”的声明
+     1>c:\users\17451\documents\visual studio 2012\projects\day3\strn系列\main.c(14): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\visual studio2012\vc\include\string.h(182) : 参见“strncat”的声明
+       Link:
+         E:\Visual Studio2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\17451\Documents\Visual Studio 2012\Projects\day3\Debug\14.strn系列.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\17451\Documents\Visual Studio 2012\Projects\day3\Debug\14.strn系列.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\17451\Documents\Visual Studio 2012\Projects\day3\Debug\14.strn系列.lib" /MACHINE:X86 Debug\main.obj
+         strn系列.vcxproj -> C:\Users\17451\Documents\Visual Studio 2012\Projects\day3\Debug\14.strn系列.exe
+     1>已完成生成项目“C:\Users\17451\Documents\Visual Studio 2012\Projects\day3\strn系列\strn系列.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.38
